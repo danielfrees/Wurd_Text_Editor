@@ -1,3 +1,5 @@
+// This code written by Professors David Smallberg and Carey Nachenberg for student use in CS32 Project 4
+
 #include "EditorGui.h"
 #include "TextIO.h"
 #include <iostream>
