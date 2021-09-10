@@ -1,3 +1,5 @@
+// This code written by Professors David Smallberg and Carey Nachenberg for student use in CS32 Project 4
+
 #ifndef TEXTEDITOR_H_
 #define TEXTEDITOR_H_
 
