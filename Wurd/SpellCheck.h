@@ -1,3 +1,5 @@
+// This code written by Professors David Smallberg and Carey Nachenberg for student use in CS32 Project 4
+
 #ifndef SPELLCHECK_H_
 #define SPELLCHECK_H_
 
